@@ -2,10 +2,8 @@
 - 🔭 I'm a Distinction Holder in Pearson's BTech Cyber Security, currently working as a Data Analyst with a keen interest in transitioning to Data Science. My background includes extensive experience in managing and analyzing data to support strategic decision-making.
 - 🌱 I am passionate about learning and continuously expanding my knowledge in fields like data science and artificial intelligence. My work is driven by curiosity, humility, and a passion for solving complex problems.
 - 🌗 Be it day or night, I'm dedicated to delivering high-quality work and ensuring accuracy in all my projects.
-- 🧪 Experience Highlights:
-- 
-    At Worldview International Group, I provided comprehensive data analysis for regional branches across the UK, US, Canada, and several African countries. My role involved creating dashboards and reports, utilizing data visualization tools to present critical insights to stakeholders.
-    My freelance work with Switchback Nepal included roles as a Website Administrator and Operations Manager/IT Specialist, where I led B2B order management and provided IT support.
+- 🧪 Experience Highlights: At Worldview International Group, I provided comprehensive data analysis for regional branches across the UK, US, Canada, and several African countries. My role involved creating dashboards and reports, utilizing data visualization tools to present critical insights to stakeholders.
+   Before changing my profession to IT, I worked with Switchback Nepal as a Website Administrator and Operations Manager/IT Specialist, where I led B2B order management and provided IT support.
     As a volunteer at the Global Child Prodigy Awards, I supported young talents and developed a keen eye for detail through photography.
 - 💻 Technical Skills:
   Data Analysis
